@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trying my first blog post
-date: 2024-09-21 12:27:00
+date: 2024-09-21
 description: Trying out my first post!
 tags: Test
 categories: First-Steps
