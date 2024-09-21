@@ -2,16 +2,16 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Kaveh Ghalambor
     - name: Date of Birth
-      value: 14th March 1879
+      value: 24th July @001
     - name: Languages
-      value: English, German
+      value: English, Farsi
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Bachelors
       institution: University of Zurich, Zurich, Switzerland
       year: 1905
       description:
