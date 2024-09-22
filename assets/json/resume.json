@@ -31,18 +31,24 @@
       "endDate": "Present",
       "summary": "Contributing to the Extreme's network management solution. I assist in ensuring system level and API performace in the application and platform levels of the product",
       "highlights": ["Cloud Engineering", "System Testing", "As A Service Ideology"]
-    }
-  ],
-  "Previous Work": [
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Visa",
+      "position": "Software Engineer Intern",
+      "url": "https://usa.visa.com/",
+      "startDate": "2023-06-23",
+      "endDate": "2024-9-01",
+      "summary": "Did two summer internships for the developer tools team.  I created automated jenkins job management solutions, reducing clutter within the service by 25%. Also worked with REST APIs to manifest other services to oversee other Dev-Ops Tools",
+      "highlights": ["Automation", "Dev-Ops", "REST API"]
+    },
+    {
+      "name": "Infoblox",
+      "position": "Software Engineer Intern",
+      "url": "https://www.infoblox.com/",
+      "startDate": "2022-06-23",
+      "endDate": "2022-9-01",
+      "summary": "Worked as a summer intern on the cloud engineering team.  I created an automated report generator that produced accurate and detailed statuses regarding AWS EC2 instances.",
+      "highlights": ["AWS", "Cloud Engineering", "EC2"]
     }
   ],
   "education": [
