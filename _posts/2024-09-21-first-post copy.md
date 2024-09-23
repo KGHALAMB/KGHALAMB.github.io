@@ -5,6 +5,7 @@ date: 2024-09-21
 description: Trying out my first post!
 tags: Test
 categories: First-Steps
+featured: true
 ---
 I am so excited! I am making my first blog post on this personal [website](https://kghalamb.github.io/)
 
